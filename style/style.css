@@ -1,0 +1,20 @@
+.curent-daycolor{
+    background: #f7edd1;
+}
+
+.avatar{
+    height: 50%;
+}
+
+.table td, .table th {
+    width: 150px;
+}
+
+.btn{
+    margin: 10px 20px;
+    width: 150px;
+}
+
+.form-group{
+    margin: 20px 0px;
+}
